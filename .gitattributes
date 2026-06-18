@@ -1,0 +1,7 @@
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.cif text eol=lf
+*.joblib binary
