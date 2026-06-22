@@ -51,12 +51,6 @@ For a shorter test run:
 python src/train_and_validate.py --trials 10
 ```
 
-To regenerate the processed feature files before training:
-
-```bash
-python src/train_feature_engineering.py
-python src/external_validation_feature_engineering.py
-```
 
 All input/output paths and main settings can be changed from the command line. To view available options:
 
